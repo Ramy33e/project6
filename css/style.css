@@ -4,6 +4,7 @@
   box-sizing: border-box;
   font-family: sans-serif;
   }
+  
 header{
 width: 100%;
 padding: 20px;
@@ -137,6 +138,13 @@ font-size: 17px;
 font-weight: 700;
 color: rgb(255, 255, 255);
 width: 90%;
+
+}
+
+.container-1-btn{
+margin-left: -70px;
+
+
 }
 .container-1-text-btn{
 border: solid 1px transparent;
@@ -680,9 +688,7 @@ position: relative;
 margin: 0 5%;
 
 }
-.team-parent{
 
-}
 .team-item:hover  .team-info h3{
   color: white;
 
